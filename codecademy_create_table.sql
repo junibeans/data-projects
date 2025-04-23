@@ -5,10 +5,10 @@ INSERT INTO friends (id, name, birthday)
 VALUES (1, 'Ororo Munroe', '1940-05-30');
 -- Add my friends to the database.
 INSERT INTO friends (id, name, birthday)
-VALUES (2, 'Zoe Helms', '1996-04-10');
+VALUES (2, 'Zoe H', '1980-06-20');
 
 INSERT INTO friends (id, name, birthday)
-VALUES (3, 'Saxon Wheatley', '1994-01-11');
+VALUES (3, 'Saxon W', '1990-01-20');
 -- Ororo Munroe changed their name to Storm.
 UPDATE friends 
 SET name = 'Storm Munroe'
