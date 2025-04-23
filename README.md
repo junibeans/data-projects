@@ -18,7 +18,7 @@ Welcome! I'm an aspiring data analyst with experience using SQL to explore, clea
 - Tools: SQLite
 - Concepts: Joins
 - Summary: Searched through a database to compile evidence against multiple suspects, ultimately finding out who the murderer was.
-### 5. Create a Table Relevant to Me
+### 5. Create a Table of My Own Data
 - Tools: SQLite, Codecademy
 - Concepts: Create and alter tables. Delete, edit, and add data to a table.
 - Summary: Created a table called "friends" to a database where I added and removed friends using a primary key. My columns consisted of id, name, birthdate, and email which helped me explore all the types of data I can add to a table.
