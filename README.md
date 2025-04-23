@@ -8,8 +8,8 @@ Welcome! I'm an aspiring data analyst with experience using SQL to explore, clea
 - Summary:
 ### 2. Analyze International Debt Statistics
 - Tools: PostgreSQL, DataCamp
-- Concepts:
-- Summary:
+- Concepts: Aggregate functions
+- Summary: In this project, I analyzed international debt data collected by The World Bank. The dataset contained information about the amount of debt (in USD) owed by developing countries across several categories.
 ### 3. When Was the Golden Era of Video Games?
 - Tools: PostgreSQL, DataCamp
 - Concepts: Joining datasets and comparing using set theory. Filter, group, and order data.
