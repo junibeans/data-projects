@@ -12,8 +12,8 @@ Welcome! I'm an aspiring data analyst with experience using SQL to explore, clea
 - Summary:
 ### 3. When Was the Golden Era of Video Games?
 - Tools: PostgreSQL, DataCamp
-- Concepts: Joins
-- Summary:
+- Concepts: Joining datasets and comparing using set theory. Filter, group, and order data.
+- Summary: Video games are big business: the global gaming market is projected to be worth more than $300 billion by 2027 according to Mordor Intelligence. With so much money at stake, the major game publishers are hugely incentivized to create the next big hit. But are games getting better, or has the golden age of video games already passed? In this project, I analyzed real video game critic and user scores as well as sales data for the top 400 video games released since 1977. I searched for the golden age of video games by identifying release years that users and critics liked best, and I explored the business side of gaming by looking at game sales data.
 ### 4. The SQL Murder Mystery
 - Tools: SQLite
 - Concepts: Joins
